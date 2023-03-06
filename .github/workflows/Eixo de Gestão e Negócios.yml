@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Catálogo Nacional de Cursos Técnicos</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Eixo de Gestão e Negócios</h1>
+    <h2>Técnico em Administração</h2>
+  </header>
+
+  <section id="apresentacao">
+    <h3>O Técnico em Administração será habilitado para:
+    </h3>
+    <p>Executar operações administrativas de planejamento, pesquisas, análise e assessoria no que tange à gestão de pessoal, de materiais e produção, de serviços, gestão financeira, orçamentária e mercadológica.
+      Utilizar sistemas de informação e aplicar conceitos e modelos de gestão em funções administrativas, sejam operacionais, de coordenação, de chefia intermediária ou de direção superior, sob orientação.
+      Elaborar orçamentos, fluxos de caixa e demais demonstrativos financeiros.
+      Elaborar e expedir relatórios e documentos diversos.
+      Auxiliar na elaboração de pareceres e laudos para tomada de decisões.</p>
+  </section>
+
+  <section id="objetivo">
+    <h3>Para atuação como Técnico em Administração, são fundamentais:
+    </h3>
+    <p>Conhecimentos e saberes relacionados à área administrativa, com atuação em conformidade com as legislações e diretrizes de conduta, como também com as normas de saúde e segurança do trabalho, pautada em ações empreendedoras e inovadoras, com foco em geração de novas oportunidades de negócio e geração de renda.
+      Exercício da profissão pautado no comprometimento com necessidades, desejos e percepção da realidade social de clientes, além de respeito à diversidade e à sustentabilidade.</p>
+  </section>
+
+  <section id="experiencias">
+    <h3>Disciplinas Semestre 1</h3>
+    <ul>
+      <li>
+        <h4>Disciplinas Para conclusão do Curso</h4>
+       
+      </li>
+      <li>
+        <h4>Comunicação Empresarial</h4>
+    
+      </li>
+      <li>
+        <h4>Contabilidade Geral</h4>
+    
+      </li>
+      <li>
+        <h4>Ética Profissional e Empreendedorismo</h4>
+    
+      </li>
+     
+     
+    </ul>
+  </section>
+
+  <section id="projetos">
+    <h3>Disciplinas Semestre 2</h3>
+    <ul>
+      <li>
+        <h4>Gestão de Pessoas</h4>
+
+        <li>
+          <h4>Gestão Comercial</h4>
+      
+        </li>
+
+        <section>
+          <h3>Informações Gerais do Curso</h3>
+          <ul>
+            <li>O curso dura, em média, 1 ano. 800h</li>
+            <li>Pré Requisito para Ingresso Para ingresso no Curso Técnico Subsequente, 
+              o estudante deverá ter concluído o Ensino Médio.</li>
+            <li>Campos de Atuação 
+              Indústrias e/ou Comércios em Geral
+              Prestadores de Serviços
+              Organizações do Terceiro Setor</li>
+            <li>Infraestrutura Mínima Biblioteca com acervo físico ou virtual específico e atualizado Laboratório de informática com programas específicos</li>
+          </ul>
+        </section>
+        </main>
+
+        <footer>
+          <p>&copy; 2023 Ufra. Todos os direitos reservados.</p>
+        </footer>
+
+        <script src="app.js"></script>
+</body>
+
+</html>

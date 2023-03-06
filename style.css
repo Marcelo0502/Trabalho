@@ -1,0 +1,27 @@
+header {
+  background-color: blue;
+}
+
+header h1,
+header h2 {
+  color: white;
+}
+
+#experiencias,
+#projetos {
+  border: 2px solid green;
+  background-color: #ffffcc;
+}
+
+#contatos a[href^="https://linkedin.com"] {
+  color: #00c0ff;
+}
+
+#contatos a {
+  transition: all 0.3s ease;
+}
+
+#contatos a:hover {
+  color: #ff6600;
+  text-decoration: none;
+}
